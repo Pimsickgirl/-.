@@ -1,0 +1,1805 @@
+﻿{
+    "questions": [{
+            "questionText": "ข้อที่ 1 กำลังประจำการ หมายถึงข้อใด",
+            "options": [{
+                    "text": "ก. ไทยอาสาป้องกันชาติ"                   
+                },
+                {
+                    "text": "ข. ทหารประจำการ และทหารกองประจำการ",
+                    "correct": true
+                },
+                {
+                    "text": "ค. อาสารักษาดินแดน"
+                },
+                {
+                    "text": "ง. ตำรวจตระเวนชายแดน"
+                }
+            ],
+            "explanation": "TS uses a colon (:) to separate the property name from the property type"
+        },
+        {
+            "questionText": "ข้อที่ 2 กำลังสำรอง หมายถึงข้อใด",
+            "options": [{
+                    "text": "ก. อาสารักษาดินแดน"
+                },
+                {
+                    "text": "ข. ตำรวจตระเวนชายแดน"
+                },
+                {
+                    "text": "ค. กำลังที่ไม่ใช่กำลังทหารประจำการ และทหารกองประจำการ",
+                    "correct": true
+                },
+                {
+                    "text": "ง. ถูกทุกข้อ"
+                }
+            ],
+            "explanation": "enum is not used as a type in TypeScript"
+        },
+        {
+            "questionText": "ข้อที่ 3 ทหารกองเกิน หมายถึงข้อใด",
+            "options": [{
+                    "text": "ก. ผู้ซึ่งมีอายุตั้งแต่ 16 ปีบริบูรณ์ และยังไม่ถึง 25 ปีบริบูรณ์"
+                },
+                {
+                    "text": "ข. ผู้ซึ่งมีอายุตั้งแต่ 17 ปีบริบูรณ์ และยังไม่ถึง 28 ปีบริบูรณ์"
+                },
+                {
+                    "text": "ค. ผู้ซึ่งมีอายุตั้งแต่ 18 ปีบริบูรณ์ และยังไม่ถึง 30 ปีบริบูรณ์",
+                    "correct": true
+                },
+                {
+                    "text": "ง. ผู้ซึ่งมีอายุตั้งแต่ 20 ปีบริบูรณ์ และยังไม่ถึง 35 ปีบริบูรณ์"
+                }
+            ],
+            "explanation": "interfaces are typically used to list the properties and methods for an object"
+        },
+        {
+            "questionText": "ข้อที่ 4 ข้อใดไม่ใช่การเรียกกำลังพลสำรองเข้ารับราชการทหาร",
+            "options": [{
+                    "text": "ก. การเรียกกำลังพลสำรองเพื่อตรวจสอบ และเพื่อฝึกวิชาทหาร"
+                },
+                {
+                    "text": "ข. การเรียกกำลังพลสำรองเพื่อปฏิบัติราชการ",
+                    "correct": true
+                },
+                {
+                    "text": "ค. การเรียกกำลังพลสำรองเพื่อทดลองความพรั่งพร้อม และการระดมพล"
+                },
+                {
+                    "text": "ง. การเรียกกำลังพลสำรองเพื่อเข้ารับการตรวจเลือกเป็นทหารกองประจำการ"
+                }
+            ],
+            "explanation": "number[] is another way of writing Array<number> in TypeScript"
+        },
+        {
+            "questionText": "ข้อที่ 5 วิธีนับอายุตามพระราชบัญญัติรับราชการทหาร พ.ศ.2497 กำหนดไว้อย่างไร",
+            "options": [{
+                    "text": "ก. อายุครบหนึ่งปีบริบูรณ์เมื่อถึงวันเกิดในปีถัดไป"
+                },
+                {
+                    "text": "ข. อายุครบหนึ่งปีบริบูรณ์เมื่อถึงเดือนเกิดในปีถัดไป"
+                },
+                {
+                    "text": "ค. ถ้าเกิดพุทธศักราชใดให้ถือว่ามีอายุครบหนึ่งปีบริบูรณ์เมื่อสิ้นพุทธศักราชที่เกิดนั้น",
+                    "correct": true
+                },
+                {
+                    "text": "ง. ถูกข้อทุกข้อ"
+                }
+            ],
+            "explanation": "a constructor is used by a class to take in parameters"
+        },
+        {
+            "questionText": "ข้อที่ 6 นายจ้างผู้ใดไม่จ่ายค่าจ้างให้แก่ลูกจ้างซึ่งเป็นกำลังพลสำรองในวันลาเพื่อรับราชการทหารมีบทกำหนดโทษไว้อย่างไรบ้าง",
+            "options": [{
+                    "text": "ก. ต้องระวางโทษปรับไม่เกิน 10,000 บาท"
+                },
+                {
+                    "text": "ข. ต้องระวางโทษปรับไม่เกิน 20,000 บาท",
+                    "correct": true
+                },
+                {
+                    "text": "ค. ต้องระวางโทษปรับไม่เกิน 30,000 บาท"
+                },
+                {
+                    "text": "ง.  ต้องระวางโทษปรับไม่เกิน 50,000 บาท"
+                }
+            ],
+            "explanation": "async is not used as an access modifier type in TypeScript"
+        },
+        {
+            "questionText": "ข้อที่ 7 กำลังพลสำรองเข้าทำหน้าที่ทหารเป็นการชั่วคราว ปี 2563 แบบทำสัญญาจ้าง คราวละไม่เกินกี่ปี",
+            "options": [{
+                    "text": "ก. คราวละไม่เกิน 1 ปี โดยสามารถต่อสัญญาจ้างอีกไม่เกิน 1 ปี"
+                },
+                {
+                    "text": "ข. คราวละไม่เกิน 2 ปี โดยสามารถต่อสัญญาจ้างอีกไม่เกิน 2 ปี"
+                },
+                {
+                    "text": "ค. คราวละไม่เกิน 3 ปี โดยสามารถต่อสัญญาจ้างอีกไม่เกิน 3 ปี"
+                },
+                {
+                    "text": "ง. คราวละไม่เกิน 4 ปี โดยสามารถต่อสัญญาจ้างอีกไม่เกิน 4 ปี",
+                    "correct": true
+                }
+            ],
+            "explanation": "the export keyword allows for the information to be transmitted between files"
+        },
+        {
+            "questionText": "ข้อที่ 8 เมื่อนายอำเภอได้รับลงบัญชีทหารกองเกินให้แก่ผู้ใดแล้ว จะออกหลักฐานอะไรให้รับไป",
+            "options": [{
+                    "text": "ก. ใบสำคัญ (แบบ สด.10)"
+                },
+                {
+                    "text": "ข. ใบสำคัญ (แบบ สด.9)",
+                    "correct": true
+                },
+                {
+                    "text": "ค. หนังสือสำคัญ (แบบ สด.8)"
+                },
+                {
+                    "text": "ง. หนังสือสำคัญ (แบบ สด.9)"
+                }
+            ],
+            "explanation": "filter is a method used to conditionally create a new array"
+        },
+        {
+            "questionText": "ข้อที่ 9 เมื่อจำเป็นนายอำเภอมีอำนาจประกาศเรียกบุคคลที่ได้ลงบัญชีทหารกองเกินไว้ที่อำเภอตามมาตรา 16 หรือ มาตรา 18 แล้วไปแสดงตน เพื่อลงบัญชีทหารกองเกินใหม่ได้ ภายในกำหนด กี่วัน",
+            "options": [{
+                    "text": "ก. ภายใน 60 วัน นับตั้งแต่วันประกาศ"
+                },
+                {
+                    "text": "ข. ภายใน 60 วันนับตั้งแต่วันที่สามารถปฏิบัติได้"
+                },
+                {
+                    "text": "ค. ภายใน  90  วันนับตั้งแต่วันที่สามารถปฏิบัติได้"
+                },
+                {
+                    "text": "ง. ภายใน  90  วันนับตั้งแต่วันประกาศ",
+                    "correct": true
+                }
+            ],
+            "explanation": "this.propertyName is the way to access a specific property within a class"
+        },
+        {
+            "questionText": "ข้อที่ 10 ให้ผู้ขอลงบัญชีหรือผู้แจ้งแทนนำเอกสารใด ของผู้ขอลงบัญชีมามอบคืนให้นายอำเภอท้องที่เพื่อทำลายใน การลงบัญชีทหารกองเกิน ตามมาตรา 19 (พ.ร.บ.รับราชการทหาร พ.ศ. 2497)",
+            "options": [{
+                    "text": "ก.  ใบสำคัญ (แบบ สด.9) หรือใบรับ (แบบ สด.10) เดิม",
+                    "correct": true                   
+                },
+                {
+                    "text": "ข.  บัญชีทหารกองเกิน (แบบ สด.1) เดิม"
+                },
+                {
+                    "text": "ค.  ใบแสดงตนเพื่อลงบัญชีทหารกองเกิน (แบบ สด.44) เดิม"
+                },
+                {
+                    "text": "ง.  หมายเรียกเข้ารับราชการทหาร (แบบ สด.35) เดิม"
+                }
+            ],
+            "explanation": "TS uses a colon (:) to separate the property name from the property type"
+        },
+	{
+            "questionText": "ข้อที่ 11 ทิศทางหลัก ที่ใช้เป็นแนวเริ่มต้นในการวัดหรือแนวศูนย์ มีกี่ชนิด",
+            "options": [{
+                    "text": "ก.  1 ชนิด"                   
+                },
+                {
+                    "text": "ข.  2 ชนิด"
+                },
+                {
+                    "text": "ค.  3 ชนิด",
+                    "correct": true
+                },
+                {
+                    "text": "ง.  4 ชนิด"
+                }
+            ],
+            "explanation": "TS uses a colon (:) to separate the property name from the property type"
+        },
+	{
+            "questionText": "ข้อที่ 12 มุมภาคทิศเหนือจริง (Azimuths) คือมุมลักษณะใด",
+            "options": [{
+                    "text": "ก.  มุมที่วัดไปทางทิศเหนือ"                   
+                },
+                {
+                    "text": "ข.  มุมที่วัดไปทางทิศใต้"
+                },
+                {
+                    "text": "ค.  มุมตรงข้ามกับที่หมาย"
+                },
+                {
+                    "text": "ง.  มุมทางระดับวัดเวียนตามเข็มนาฬิกาจากทิศเหนือไปยังแนวพิจารณา",
+                    "correct": true
+                }
+            ],
+            "explanation": "TS uses a colon (:) to separate the property name from the property type"
+        },
+	{
+            "questionText": "ข้อที่ 13 มุมภาคทิศเหนือกลับ ( Back Azimuth ) คือมุมลักษณะใด",
+            "options": [{
+                    "text": "ก.  มุมที่วัดไปทางทิศเหนือ"                   
+                },
+                {
+                    "text": "ข.  มุมที่วัดไปทางทิศใต้"
+                },
+                {
+                    "text": "ค.  มุมทิศทางที่ตรงข้ามกับมุมภาคทิศเหนือจริง"
+                },
+                {
+                    "text": "ง.  มุมทางระดับวัดเวียนตามเข็มนาฬิกาจากทิศเหนือไปยังแนวพิจารณา",
+                    "correct": true
+                }
+            ],
+            "explanation": "TS uses a colon (:) to separate the property name from the property type"
+        },
+{
+            "questionText": "ข้อที่ 14 การหาค่ามุมภาคทิศเหนือกลับหรือมุมตรงกันข้ามมีหลักเกณฑ์การคิดดังข้อใด",
+            "options": [{
+                    "text": "ก.  มุมเกิน 180  องศา เอา 180 องศาไปลบ , มุมไม่เกิน  180  องศา เอา 180 องศาไปบวก",
+                    "correct": true                   
+                },
+                {
+                    "text": "ข.  มุมเกิน 180  องศา เอา  90  องศาไปลบ , มุมไม่เกิน  180  องศา  เอา  90 องศาไปบวก"
+                },
+                {
+                    "text": "ค.  มุมเกิน 180  องศา เอาไปลบออกจาก 360 องศา , มุมไม่เกิน 180 องศา เอา 360 องศา ไปบวก"
+                },
+                {
+                    "text": "ง.  มุมเกิน 180  องศา  เอาไปลบออกจาก 270 องศา , มุมไม่เกิน 180 องศา เอา 270 องศา ไปบวก"
+                }
+            ],
+            "explanation": "TS uses a colon (:) to separate the property name from the property type"
+        },
+	{
+            "questionText": "ข้อที่ 15 เข็มทิศเลนเซติกมีส่วนประกอบหลักทั้งหมดกี่ส่วน อะไรบ้าง",
+            "options": [{
+                    "text": "ก. 2 ส่วน ฝาตลับ และ ตัวเรือน"                   
+                },
+                {
+                    "text": "ข. 3 ส่วน ฝาตลับ , ตัวเรือน , ก้านเล็ง",
+                    "correct": true
+                },
+                {
+                    "text": "ค. 3 ส่วน ฝาตลับ , ตัวเรือน , ห่วงจับถือ"
+                },
+                {
+                    "text": "ง. 4 ส่วน ฝาตลับ , ตัวเรือน , ก้านเล็ง และแม่เหล็ก"
+                }
+            ],
+            "explanation": "TS uses a colon (:) to separate the property name from the property type"
+        },
+	{
+            "questionText": "ข้อที่ 16 การจับถือเข็มทิศใช้งานที่ถูกต้องมีกี่วิธี อะไรบ้าง",
+            "options": [{
+                    "text": "ก. 4 วิธี เล็งใกล้ , เล็งไกล , เล็งต่ำ และเล็งสูง"                   
+                },
+                {
+                    "text": "ข. 3 วิธี เล็งตรง , เล็งสกัดกลับ และเล็งกว้าง"
+                },
+                {
+                    "text": "ค. 2 วิธี แบบประณีต และแบบเร่งด่วน",
+                    "correct": true
+                },
+                {
+                    "text": "ง. วิธีใดก็ได้ขอให้วัดมุมได้ตามต้องการ"
+                }
+            ],
+            "explanation": "TS uses a colon (:) to separate the property name from the property type"
+        },
+	{
+            "questionText": "ข้อที่ 17 การกะระยะทางด้วยจำนวนก้าว ข้อใดถูกต้อง",
+            "options": [{
+                    "text": "ก. 100 เมตร = 100 ก้าว"                   
+                },
+                {
+                    "text": "ข. 110 เมตร = 110 ก้าว"
+                },
+                {
+                    "text": "ค. 100 เมตร = 120 ก้าว",
+                    "correct": true
+                },
+                {
+                    "text": "ง. 100 เมตร = 130 ก้าว"
+                }
+            ],
+            "explanation": "TS uses a colon (:) to separate the property name from the property type"
+        },
+	{
+            "questionText": "ข้อที่ 18 การใช้แผ่นวัดมุม P 67 บริเวณส่วนโค้งจะบอกค่าของมุมอยู่ดังนี้  คือ",
+            "options": [{
+                    "text": "ก.  วงนอก  0 – 180  องศา , วงใน 180  องศา – 360  องศา"                   
+                },
+                {
+                    "text": "ข.  วงนอก 0 – 90  องศา , วงใน  90 องศา – 180  องศา"
+                },
+                {
+                    "text": "ค.  วงใน  0 – 180  องศา , วงนอก 180  องศา – 360  องศา",
+                    "correct": true
+                },
+                {
+                    "text": "ง.  วงใน  0 – 90  องศา , วงนอก  90  องศา – 180  องศา"
+                }
+            ],
+            "explanation": "TS uses a colon (:) to separate the property name from the property type"
+        },
+	{
+            "questionText": "ข้อที่ 19 วิธีการกำหนดจุดที่อยู่ของตนเองลงบนแผนที่ โดยวิธีการเล็งสกัดกลับ วัดมุมภาคทิศเหนือจากตำบลที่ยืน อยู่ในภูมิประเทศไปยังตำบลเด่น  อยากทราบว่าจะใช้กี่จุด",
+            "options": [{
+                    "text": "ก.  1  จุด"                   
+                },
+                {
+                    "text": "ข.  2  จุด",
+                    "correct": true
+                },
+                {
+                    "text": "ค.  3  จุด"
+                },
+                {
+                    "text": "ง.  4  จุด"
+                }
+            ],
+            "explanation": "TS uses a colon (:) to separate the property name from the property type"
+        },
+	{
+            "questionText": "ข้อที่ 20 การเล็งสกัดกลับประกอบแนวจะใช้จุดเด่นเพียงจุดเดียวจะต้องอาศัยสิ่งใดในภูมิประเทศเป็นแนว",
+            "options": [{
+                    "text": "ก.  ลำธาร "                   
+                },
+                {
+                    "text": "ข.  ถนน"
+                },
+                {
+                    "text": "ค. ทางรถไฟ"
+                },
+                {
+                    "text": "ง. ถูกทุกข้อ",
+                    "correct": true
+                }
+            ],
+            "explanation": "TS uses a colon (:) to separate the property name from the property type"
+        },
+	{
+            "questionText": "ข้อที่ 21 เครื่องยิงลูกระเบิด ขนาด 60 มม. เป็นอาวุธกระสุนวิถีโค้ง ใช้ประจำหน่วยในระดับใด",
+            "options": [{
+                    "text": "ก.  กองร้อยอาวุธเบา",
+                    "correct": true                   
+                },
+                {
+                    "text": "ข.  กองพันทหารราบ"
+                },
+                {
+                    "text": "ค.  หมวดปืนเล็ก"
+                },
+                {
+                    "text": "ง.  หมู่ปืนเล็ก"
+                }
+            ],
+            "explanation": "TS uses a colon (:) to separate the property name from the property type"
+        },
+	{
+            "questionText": "ข้อที่ 22 ค.60 มม. เป็นอาวุธกระสุนวิถีโค้ง  ทำการยิงทีละนัด โดยบรรจุลูกระเบิดยิง (กระสุน) ทางปากลำกล้อง  อยากทราบว่าทำการยิงด้วยวิธีอะไร",
+            "options": [{
+                    "text": "ก.  เล็งจำลอง",
+                    "correct": true                   
+                },
+                {
+                    "text": "ข.  เล็งตรง"
+                },
+                {
+                    "text": "ค.  เล็งจำลองและเล็งตรง"
+                },
+                {
+                    "text": "ง.  เล็งทับเป้าหมาย"
+                }
+            ],
+            "explanation": "TS uses a colon (:) to separate the property name from the property type"
+        },
+	{
+            "questionText": "ข้อที่ 23 1 หมู่ ค.60  มม. มีกำลังพล กี่นาย",
+            "options": [{
+                    "text": "ก.  9   นาย"                   
+                },
+                {
+                    "text": "ข.  11  นาย"
+                },
+                {
+                    "text": "ค.  5  นาย"
+                },
+                {
+                    "text": "ง.  18  นาย",
+                    "correct": true
+                }
+            ],
+            "explanation": "TS uses a colon (:) to separate the property name from the property type"
+        },
+	{
+            "questionText": "ข้อที่ 24 ค.60 มม. มีลูกระเบิดยิงที่ใช้ทำการยิงมากที่สุดในการรบ ได้แก่ ลูกระเบิดยิงสังหาร มีรัศมีระเบิด เท่าไร",
+            "options": [{
+                    "text": "ก.  10 ม."                   
+                },
+                {
+                    "text": "ข.  8  คูณ 10  ม."
+                },
+                {
+                    "text": "ค.  18 คูณ 9 ม.",
+                    "correct": true
+                },
+                {
+                    "text": "ง.  18 ม."
+                }
+            ],
+            "explanation": "TS uses a colon (:) to separate the property name from the property type"
+        },
+{
+            "questionText": "ข้อที่ 25 อัตราการยิงเร็วสูงสุด ของ ค. 60 มม. คือข้อใด",
+            "options": [{
+                    "text": "ก.  18  นัด/นาที"                   
+                },
+                {
+                    "text": "ข.  28  นัด/นาที"
+                },
+                {
+                    "text": "ค.  20  นัด/นาที"
+                },
+                {
+                    "text": "ง.  30  นัด/นาที",
+                    "correct": true
+                }
+            ],
+            "explanation": "TS uses a colon (:) to separate the property name from the property type"
+        },
+	{
+            "questionText": "ข้อที่ 26 วัตถุระเบิดทางทหารสามารถแยกออกได้เป็น ๒ ชนิดอะไรบ้าง",
+            "options": [{
+                    "text": "ก. วัตถุระเบิดแรงต่ำ และวัตถุระเบิดแรงสูง",
+                    "correct": true                   
+                },
+                {
+                    "text": "ข. วัตถุระเบิดแรงต่ำ และวัตถุระเบิดแสวงเครื่อง"
+                },
+                {
+                    "text": "ค. วัตถุระเบิดแรงสูง และวัตถุระเบิดมาตรฐาน"
+                },
+                {
+                    "text": "ง. วัตถุระเบิดมาตรฐาน และวัตถุระเบิดแสวงเครื่อง"
+                }
+            ],
+            "explanation": "TS uses a colon (:) to separate the property name from the property type"
+        },
+	{
+            "questionText": "ข้อที่ 27 เราแยกชนิดของวัตถุระเบิดทางทหารได้ โดยพิจารณาจาก",
+            "options": [{
+                    "text": "ก. อัตราความแรงในการระเบิด"                   
+                },
+                {
+                    "text": "ข. อัตราความเร็วในการระเบิด"
+                },
+                {
+                    "text": "ค. อัตราความไวในการระเบิด",
+                    "correct": true
+                },
+                {
+                    "text": "ง. อัตราการลุกไหม้"
+                }
+            ],
+            "explanation": "TS uses a colon (:) to separate the property name from the property type"
+        },
+	{
+            "questionText": "ข้อที่ 28 ข้อใดไม่ใช่คุณลักษณะของวัตถุระเบิดทางทหาร",
+            "options": [{
+                    "text": "ก. มีพิษน้อย"                   
+                },
+                {
+                    "text": "ข. ทนต่อการสั่นสะเทือน"
+                },
+                {
+                    "text": "ค. มีความหนาแน่นมาก"
+                },
+                {
+                    "text": "ง. หาซื้อได้ง่ายตามท้องตลาด",
+                    "correct": true
+                }
+            ],
+            "explanation": "TS uses a colon (:) to separate the property name from the property type"
+        },
+	{
+            "questionText": "ข้อที่ 29 วัตถุระเบิดที่เป็นมาตรฐานในทางทหารคือ",
+            "options": [{
+                    "text": "ก. PETN"                   
+                },
+                {
+                    "text": "ข. RDX"
+                },
+                {
+                    "text": "ค. TNT",
+                    "correct": true
+                },
+                {
+                    "text": "ง. Ammonium nitrate"
+                }
+            ],
+            "explanation": "TS uses a colon (:) to separate the property name from the property type"
+        },
+	{
+            "questionText": "ข้อที่ 30 ดินระเบิด TNT ขนาดใดที่ผลิตออกมาใช้สำหรับฝึก เพื่อให้เกิดความคุ้นเคย",
+            "options": [{
+                    "text": "ก. 1 ปอนด์"                   
+                },
+                {
+                    "text": "ข. 1/2 ปอนด์"
+                },
+                {
+                    "text": "ค. 1/4 ปอนด์",
+                    "correct": true
+                },
+                {
+                    "text": "ง. ทุกขนาด"
+                }
+            ],
+            "explanation": "TS uses a colon (:) to separate the property name from the property type"
+        },
+	{
+            "questionText": "ข้อที่ 31 ข้อใดคือ ภารกิจของหมู่ปืนเล็กในการเข้าตี",
+            "options": [{
+                    "text": "ก.  ตีโฉบฉวย"                   
+                },
+                {
+                    "text": "ข.  ซุ่มโจมตี"
+                },
+                {
+                    "text": "ค.  ลาดตระเวน"
+                },
+                {
+                    "text": "ง.  เข้าประชิด , ทำลาย , จับข้าศึก",
+                    "correct": true
+                }
+            ],
+            "explanation": "TS uses a colon (:) to separate the property name from the property type"
+        },
+	{
+            "questionText": "ข้อที่ 32 การที่จะต้องเคลื่อนที่เข้าไปให้ถึงตัวข้าศึก เพื่อเข้ายึดยื้อแย่งดินแดน ที่มีข้าศึกยึดครองอยู่ หมายถึงข้อใด",
+            "options": [{
+                    "text": "ก.  การรบด้วยวิธีรุก",
+                    "correct": true                   
+                },
+                {
+                    "text": "ข.  การรบด้วยวิธีรับ"
+                },
+                {
+                    "text": "ค.  การรบแบบร่นถอย"
+                },
+                {
+                    "text": "ง.  การรบแบบถอนตัว"
+                }
+            ],
+            "explanation": "TS uses a colon (:) to separate the property name from the property type"
+        },
+	{
+            "questionText": "ข้อที่ 33 ขั้นตอนการรบด้วยวิธีรุก แบ่งออกเป็น ๒ ขั้นตอน มีอะไรบ้าง",
+            "options": [{
+                    "text": "ก.  การเคลื่อนที่เข้าปะทะ , การเคลื่อนที่ผ่านแนวออกตี"                   
+                },
+                {
+                    "text": "ข.  การเคลื่อนที่เข้าปะทะ , การเคลื่อนที่ผ่านฐานออกตี"
+                },
+                {
+                    "text": "ค.  การเคลื่อนที่เข้าปะทะ , การเข้าตี",
+                    "correct": true
+                },
+                {
+                    "text": "ง.  การเคลื่อนที่ผ่านแนวประสานการปฏิบัติขั้นสุดท้าย , การเข้าตี"
+                }
+            ],
+            "explanation": "TS uses a colon (:) to separate the property name from the property type"
+        },
+	{
+            "questionText": "ข้อที่ 34 ขั้นการรบด้วยวิธีรุก ขั้นใดอยู่ใกล้ข้าศึกมากกว่ากัน",
+            "options": [{
+                    "text": "ก.  ขั้นการเคลื่อนที่เข้าปะทะ"                   
+                },
+                {
+                    "text": "ข.  ขั้นการเข้าตี",
+                    "correct": true
+                },
+                {
+                    "text": "ค.  ขั้นเสนอความต้องการ"
+                },
+                {
+                    "text": "ง.  ขั้นการเคลื่อนย้ายหน่วยที่จำเป็น"
+                }
+            ],
+            "explanation": "TS uses a colon (:) to separate the property name from the property type"
+        },
+	{
+            "questionText": "ข้อที่ 35 ที่รวมพลในการเข้าตีจะห่างจากแนวออกตีระยะเท่าใด",
+            "options": [{
+                    "text": "ก.  เดินไม่เกิน 10 ชั่วโมง"                   
+                },
+                {
+                    "text": "ข.  เดินไม่เกิน 9 ชั่วโมง"
+                },
+                {
+                    "text": "ค.  เดินไม่เกิน 5 ชั่วโมง"
+                },
+                {
+                    "text": "ง.  เดินไม่เกิน 1 ชั่วโมง",
+                    "correct": true
+                }
+            ],
+            "explanation": "TS uses a colon (:) to separate the property name from the property type"
+        },
+{
+            "questionText": "ข้อที่ 36 การใช้เครื่องมือ และวิธีการทั้งมวลที่มีอยู่ เพื่อป้องกัน , ต้านทาน , ทำลาย การเข้าตีของข้าศึก ด้วยการยึด รักษาภูมิประเทศการปฏิบัติลักษณะนี้เรียกว่า",
+            "options": [{
+                    "text": "ก.  การรบด้วยวิธีรุก",
+                    "correct": true                   
+                },
+                {
+                    "text": "ข.  การร่นถอย"
+                },
+                {
+                    "text": "ค.  การตั้งรับ"
+                },
+                {
+                    "text": "ง.  การเข้าตี"
+                }
+            ],
+            "explanation": "TS uses a colon (:) to separate the property name from the property type"
+        },
+	{
+            "questionText": "ข้อที่ 37 การตั้งรับมี 2 แบบ ได้แก่ข้อใด",
+            "options": [{
+                    "text": "ก.  แบบพื้นที่ , แบบเคลื่อนที่",
+                    "correct": true                       
+                },
+                {
+                    "text": "ข.  แบบพื้นที่ , แบบระบบนาฬิกา"
+                },
+                {
+                    "text": "ค.  แบบพื้นที่ , แบบหมุนเวียน"
+                },
+                {
+                    "text": "ง.  แบบหมุนเวียน , แบบเคลื่อนที่"
+                }
+            ],
+            "explanation": "TS uses a colon (:) to separate the property name from the property type"
+        },
+	{
+            "questionText": "ข้อที่ 38 แนวความคิดในการตั้งรับตามปกติแล้วจะแบ่งพื้นที่ในการตั้งรับออกเป็น 2 ส่วน อะไรบ้าง",
+            "options": [{
+                    "text": "ก.  พื้นที่การรบ , พื้นที่กองหนุน"                   
+                },
+                {
+                    "text": "ข.  พื้นที่ส่วนระวังป้องกัน , พื้นที่การรบ"
+                },
+                {
+                    "text": "ค.  พื้นที่ตั้งรับหน้า , พื้นที่กองหนุน",
+                    "correct": true    
+                },
+                {
+                    "text": "ง.  พื้นที่กองหนุน , พื้นที่ระวังป้องกัน"
+                }
+            ],
+            "explanation": "TS uses a colon (:) to separate the property name from the property type"
+        },
+	{
+            "questionText": "ข้อที่ 39 แนวหน้าสุดของพื้นที่การรบที่ฝ่ายตั้งรับจะมิยอมให้ข้าศึกผ่านมาได้เป็นอันขาด เรียกว่า",
+            "options": [{
+                    "text": "ก.  แนวกองรักษาด่านรบ"                   
+                },
+                {
+                    "text": "ข.  แนวกองรักษาด่านทั่วไป"
+                },
+                {
+                    "text": "ค.  แนวส่วนระวังป้องกัน"
+                },
+                {
+                    "text": "ง.  แนวขอบหน้าพื้นที่การรบ",
+                    "correct": true    
+                }
+            ],
+            "explanation": "TS uses a colon (:) to separate the property name from the property type"
+        },
+	{
+            "questionText": "ข้อที่ 40 ในระดับ หมู่ , หมวดปืนเล็ก นิยมสั่งการตั้งรับ ( คำสั่งยุทธการ ) ด้วยวิธีใด",
+            "options": [{
+                    "text": "ก.  สั่งการด้วยวาจา" ,
+                    "correct": true                      
+                },
+                {
+                    "text": "ข.  สั่งการทางโทรศัพท์"
+                },
+                {
+                    "text": "ค.  สั่งการด้วยวิทยุ"
+                },
+                {
+                    "text": "ง.  สั่งการโดยใช้พลนำสาร"
+                }
+            ],
+            "explanation": "TS uses a colon (:) to separate the property name from the property type"
+        },
+	{
+            "questionText": "ข้อที่ 41 ปรัชญาเศรษฐกิจพอเพียง คือ",
+            "options": [{
+                    "text": "ก. พอประมาณ สมดุล มีเหตุผล"                   
+                },
+                {
+                    "text": "ข. มีเหตุผล มีภูมิคุ้มกัน พอไปวัดไปวา"
+                },
+                {
+                    "text": "ค. พอประมาณ มีเหตุผล มีภูมิคุ้มกัน",
+                    "correct": true    
+                },
+                {
+                    "text": "ง. มีเหตุผล มั่นคง ยืนได้ด้วยตนเอง"
+                }
+            ],
+            "explanation": "TS uses a colon (:) to separate the property name from the property type"
+        },
+	{
+            "questionText": "ข้อที่ 42 ปรัชญาเศรษฐกิจพอเพียง เป็นแนวพระราชดำริของรัชกาลใด",
+            "options": [{
+                    "text": "ก. รัชกาลที่ 7 "                   
+                },
+                {
+                    "text": "ข. รัชกาลที่ 8"
+                },
+                {
+                    "text": "ค. รัชกาลที่ 9",
+                    "correct": true    
+                },
+                {
+                    "text": "ง. รัชกาลที่ 10"
+                }
+            ],
+            "explanation": "TS uses a colon (:) to separate the property name from the property type"
+        },
+	{
+            "questionText": "ข้อที่ 43 ปรัชญาเศรษฐกิจพอเพียง มีเป้าหมาย คือ",
+            "options": [{
+                    "text": "ก. ดำเนินชีวิตได้ทุกสถานการณ์",
+                    "correct": true                       
+                },
+                {
+                    "text": "ข. ดำเนินชีวิตได้ทุกประเทศ"
+                },
+                {
+                    "text": "ค. ดำเนินชีวิตได้ทุกวัย"
+                },
+                {
+                    "text": "ง. ดำเนินชีวิตได้ทุกสภาพอากาศ"
+                }
+            ],
+            "explanation": "TS uses a colon (:) to separate the property name from the property type"
+        },
+	{
+            "questionText": "ข้อที่ 44 ท่านเคยได้ยิน “หลัก 4 พ” การดำรงชีวิตส่วนตัวและชีวิตการงานตามรอยพระยุคลบาท ปรัชญาเศรษฐกิจพอเพียงสำหรับข้าราชการหรือไม่ คืออะไร",
+            "options": [{
+                    "text": "ก. พึ่งตนเอง พอดี พอเพียง พอใจ",
+                    "correct": true                       
+                },
+                {
+                    "text": "ข. พอประมาณ พอเพียง พอดี พอใจ "
+                },
+                {
+                    "text": "ค. พอทน พึ่งตนเอง พอดี พอเพียง"
+                },
+                {
+                    "text": "ง. พร้อมเพรียง พอดี พอเพียง พอใจ"
+                }
+            ],
+            "explanation": "TS uses a colon (:) to separate the property name from the property type"
+        },
+	{
+            "questionText": "ข้อที่ 45 ข้อใดหมายถึง ความพอประมาณอย่างมีเหตุผล",
+            "options": [{
+                    "text": "ก. ความสมดุลและความยั่งยืน"                   
+                },
+                {
+                    "text": "ข. ไม่โลภ ไม่ฟุ้งเฟ้อ รู้จักพอ มีเหตุผล มีความพอประมาณ",
+                    "correct": true    
+                },
+                {
+                    "text": "ค. มีไมตรี เอื้ออาทร"
+                },
+                {
+                    "text": "ง. ถูกทุกข้อ"
+                }
+            ],
+            "explanation": "TS uses a colon (:) to separate the property name from the property type"
+        },
+	{
+            "questionText": "ข้อที่ 46 การพัฒนาประเทศแบบยั่งยืนถ้าต้องการพัฒนา ข้อใดกล่าวถูกต้อง",
+            "options": [{
+                    "text": "ก. กู้เงินจากประเทศอื่นมาก่อน"                   
+                },
+                {
+                    "text": "ข. สร้างพื้นฐาน",
+                    "correct": true    
+                },
+                {
+                    "text": "ค. พัฒนาอย่างรวดเร็วทุกวิถีทาง"
+                },
+                {
+                    "text": "ง. ให้เศรษฐกิจเติบโตอย่ารวดเร็ว"
+                }
+            ],
+            "explanation": "TS uses a colon (:) to separate the property name from the property type"
+        },
+{
+            "questionText": "ข้อที่ 47 คนที่เคยรวย ควรปฏิบัติตัวอย่างไรจึงแสดงให้เห็นว่าเป็นผู้ที่มีความพอเพียง",
+            "options": [{
+                    "text": "ก. กู้เงินมาใช้"                   
+                },
+                {
+                    "text": "ข. ใช้ชีวิตแบบเดิม"
+                },
+                {
+                    "text": "ค. ปรับเปลี่ยนการใช้เงินให้พอเพียง",
+                    "correct": true    
+                },
+                {
+                    "text": "ง. เอาบ้านไปจำนองเพื่อเอาเงินมาใช้จ่าย"
+                }
+            ],
+            "explanation": "TS uses a colon (:) to separate the property name from the property type"
+        },
+	{
+            "questionText": "ข้อที่ 48 กรอบแนวคิดใดถูกต้องเกี่ยวกับ เศรษฐกิจพอเพียง",
+            "options": [{
+                    "text": "ก. มองโลกใบเล็ก"                   
+                },
+                {
+                    "text": "ข. มองโลกให้แคบ"
+                },
+                {
+                    "text": "ค. มองไปข้างหน้า"
+                },
+                {
+                    "text": "ง. มองโลกในเชิงที่มีการเปลี่ยนแปลงตลอดเวลา",
+                    "correct": true    
+                }
+            ],
+            "explanation": "TS uses a colon (:) to separate the property name from the property type"
+        },
+	{
+            "questionText": "ข้อที่ 49 หลักเศรษฐกิจพอเพียงมีความสำคัญในการพัฒนาประเทศยกเว้นข้อใด",
+            "options": [{
+                    "text": "ก. ช่วยขจัดความยากจน",
+                    "correct": true                      
+                },
+                {
+                    "text": "ข. ปรับปรุงมาตรฐานธรรมาภิบาล"
+                },
+                {
+                    "text": "ค. ช่วยให้มนุษย์รู้จักขวนขวาย ชิงดีชิงเด่น"
+                },
+                {
+                    "text": "ง.  ช่วยสร้างชุมชนให้เข้มแข็ง"
+                }
+            ],
+            "explanation": "TS uses a colon (:) to separate the property name from the property type"
+        },
+	{
+            "questionText": "ข้อที่ 50 ข้อใดไม่ใช่เศรษฐกิจแบบก้าวหน้า",
+            "options": [{
+                    "text": "ก. การร่วมมือช่วยเหลือกันและกัน"                   
+                },
+                {
+                    "text": "ข. การทำเพื่อส่วนรวม"
+                },
+                {
+                    "text": "ค. การแลกเปลี่ยนความคิดเห็น"
+                },
+                {
+                    "text": "ง. การใช้ชีวิตแบบสันโดษไม่ยุ่งเกี่ยวกับใคร",
+                    "correct": true    
+                }
+            ],
+            "explanation": "TS uses a colon (:) to separate the property name from the property type"
+        },
+	{
+            "questionText": "ข้อที่ 51 รัฐธรรมนูญฉบับใด เป็นรัฐธรรมนูญที่ใช้อยู่ในปัจจุบันของประเทศไทย",
+            "options": [{
+                    "text": "ก. รัฐธรรมนูญ ปี พ.ศ.2540 เป็นฉบับที่ 20"                   
+                },
+                {
+                    "text": "ข. รัฐธรรมนูญ ปี พ.ศ.2550 เป็นฉบับที่ 20"
+                },
+                {
+                    "text": "ค. รัฐธรรมนูญ ปี พ.ศ.2560 เป็นฉบับที่ 20",
+                    "correct": true    
+                },
+                {
+                    "text": "ง. ไม่มีข้อใดกล่าวถูก"
+                }
+            ],
+            "explanation": "TS uses a colon (:) to separate the property name from the property type"
+        },
+	{
+            "questionText": "ข้อที่ 52 จาก พ.ร.บ. จัดระเบียบราชการกระทรวงกลาโหม พ.ศ.2551 ได้กำหนดภารกิจหลักของกองทัพบกไทยไว้ 5 ประการ ข้อใดกล่าวไว้ไม่ถูกต้อง",
+            "options": [{
+                    "text": "ก. การป้องกันประเทศเพื่อนบ้าน"                   
+                },
+                {
+                    "text": "ข. การรักษาความมั่นคงภายใน"
+                },
+                {
+                    "text": "ค. การรักษาความสงบเรียบร้อยภายในประเทศ"
+                },
+                {
+                    "text": "ง. การพัฒนาประเทศ",
+                    "correct": true    
+                }
+            ],
+            "explanation": "TS uses a colon (:) to separate the property name from the property type"
+        },
+	{
+            "questionText": "ข้อที่ 53 การป้องกันและปราบปรามยาเสพติด เป็นภารกิจใดของกองทัพบก",
+            "options": [{
+                    "text": "ก. การป้องกันประเทศ"                   
+                },
+                {
+                    "text": "ข. การรักษาความมั่นคงภายในประเทศ"
+                },
+                {
+                    "text": "ค. การรักษาความสงบเรียบร้อยภายในประเทศ"
+                },
+                {
+                    "text": "ง. ภารกิจอื่นที่มิใช่สงคราม",
+                    "correct": true    
+                }
+            ],
+            "explanation": "TS uses a colon (:) to separate the property name from the property type"
+        },
+	{
+            "questionText": "ข้อที่ 54 ภารกิจของกองทัพบก ในเรื่องของการพัฒนาประเทศมีส่วนราชการใดที่ปฏิบัติภารกิจนี้เป็นหลัก",
+            "options": [{
+                    "text": "ก. กองพันทหารราบ , กรมทหารราบ",
+                    "correct": true                       
+                },
+                {
+                    "text": "ข. กองพันทหารสื่อสาร , กรมการทหารสื่อสาร"
+                },
+                {
+                    "text": "ค. กองพลทหารช่าง , กองพลพัฒนาของกองทัพภาค"
+                },
+                {
+                    "text": "ง. ไม่มีข้อใดกล่าวถูก"
+                }
+            ],
+            "explanation": "TS uses a colon (:) to separate the property name from the property type"
+        },
+	{
+            "questionText": "ข้อที่ 55 ข้อใดเป็นการป้องกันประเทศตามภารกิจของกองทัพบก",
+            "options": [{
+                    "text": "ก. การส่งหน่วยทหารไปปฏิบัติภารกิจที่ชายแดน",
+                    "correct": true                       
+                },
+                {
+                    "text": "2.ปืนกลเอ็ม 60ข. การส่งกำลังทหารไปปราบปรามจลาจลในเมืองหลวง"
+                },
+                {
+                    "text": "ค. การส่งทหารไปรักษาสันติภาพที่ประเทศ ติมอร์"
+                },
+                {
+                    "text": "ง. การส่งกำลังทหารไปช่วยเหลือประชาชนที่ประสบภัยพิบัติน้ำท่วม"
+                }
+            ],
+            "explanation": "TS uses a colon (:) to separate the property name from the property type"
+        },
+	{
+            "questionText": "ข้อที่ 56 ตาม พ.ร.ฎ. แบ่งส่วนราชการและกำหนดหน้าที่ของส่วนราชการ กองทัพบก กองทัพไทย กระทรวงกลาโหม พ.ศ.2552 เมื่อจัดกลุ่มของส่วนราชการออกเป็น 7 กลุ่มแล้ว กลุ่มใดมีหน้าที่ในการป้องกันประเทศ",
+            "options": [{
+                    "text": "ก. ส่วนกำลังบำรุง"                   
+                },
+                {
+                    "text": "ข. ส่วนสนับสนุนการรบ",
+                    "correct": true    
+                },
+                {
+                    "text": "ค. ส่วนกำลังรบ"
+                },
+                {
+                    "text": "ง. ส่วนช่วยการพัฒนาประเทศ0"
+                }
+            ],
+            "explanation": "TS uses a colon (:) to separate the property name from the property type"
+        },
+	{
+            "questionText": "ข้อที่ 57 ปัจจัยอำนาจแห่งชาติด้านการป้องกันประเทศก็คือ กำลังอำนาจทางทหารซึ่งประกอบไปด้วย",
+            "options": [{
+                    "text": "ก. กำลังรบ และ กำลังสำรอง"                   
+                },
+                {
+                    "text": "ข. กำลังรบที่จัดไว้แล้ว และ ศักย์สงคราม",
+                    "correct": true    
+                },
+                {
+                    "text": "ค. กำลังสำรองและจิตอาสา"
+                },
+                {
+                    "text": "ง. ไม่มีข้อใดกล่าวถูก"
+                }
+            ],
+            "explanation": "TS uses a colon (:) to separate the property name from the property type"
+        },
+{
+            "questionText": "ข้อที่ 58 ในกรณีที่มีความจำเป็นต้องรักษาความมั่นคงภายในราชอาณาจักร ในเขตพื้นที่กองทัพภาคต่าง ๆ หน่วยงานใดจะต้องเป็นผู้ปฏิบัติ",
+            "options": [{
+                    "text": "ก. กอ.รมน."                   
+                },
+                {
+                    "text": "ข. กอ.รมน. จังหวัด"
+                },
+                {
+                    "text": "ค. กอ.รมน. ภาค",
+                    "correct": true    
+                },
+                {
+                    "text": "ง. ไม่มีข้อใดกล่าวถูก"
+                }
+            ],
+            "explanation": "TS uses a colon (:) to separate the property name from the property type"
+        },
+	{
+            "questionText": "ข้อที่ 59 ใครเป็นผู้จัดตั้ง กอ.รมน.ภาค ในกรณีที่มีความจำเป็นต้องรักษาความมั่นคงภายในราชอาณาจักร",
+            "options": [{
+                    "text": "ก. รัฐบาล",
+                    "correct": true                       
+                },
+                {
+                    "text": "ข. กองทัพภาค"
+                },
+                {
+                    "text": "ค. กระทรวงกลาโหม"
+                },
+                {
+                    "text": "ง. ไม่มีข้อใดกล่าวถูก"
+                }
+            ],
+            "explanation": "TS uses a colon (:) to separate the property name from the property type"
+        },
+	{
+            "questionText": "ข้อที่ 60 จาก พ.ร.ฎ. แบ่งส่วนราชการและกำหนดหน้าที่ของส่วนราชการ กองทัพบก กองทัพไทย กระทรวงกลาโหมพ.ศ.2552 เมื่อจัดกลุ่มของส่วนราชการออกเป็น 7 กลุ่มแล้วข้อใดต่อไปนี้กล่าวไม่ถูกต้อง",
+            "options": [{
+                    "text": "ก. ส่วนบัญชาการ",
+                    "correct": true                       
+                },
+                {
+                    "text": "ข. ส่วนสนับสนุนการช่วยรบ"
+                },
+                {
+                    "text": "ค. ส่วนช่วยการพัฒนาประเทศ"
+                },
+                {
+                    "text": "ง. ส่วนกำลังรบ"
+                }
+            ],
+            "explanation": "TS uses a colon (:) to separate the property name from the property type"
+        },
+	{
+            "questionText": "ข้อที่ 61ยุทธศาสตร์ชาติ ประกอบด้วยอะไรบ้าง",
+            "options": [{
+                    "text": "ก. วิสัยทัศน์ในการพัฒนาประเทศ"                   
+                },
+                {
+                    "text": "ข. เป้าหมายในการพัฒนาประเทศ"
+                },
+                {
+                    "text": "ค. ระยะเวลาในการพัฒนาประเทศ "
+                },
+                {
+                    "text": "ง. ถูกทุกข้อ",
+                    "correct": true    
+                }
+            ],
+            "explanation": "TS uses a colon (:) to separate the property name from the property type"
+        },
+	{
+            "questionText": "ข้อที่ 62 การดำเนินการตามกระบวนการยุทธศาสตร์ชาติ ต้องคำนึงถึงอะไรบ้าง",
+            "options": [{
+                    "text": "ก. ผลประโยชน์ของชาติ",
+                    "correct": true                       
+                },
+                {
+                    "text": "ข. ทรัพยากรของชาติ"
+                },
+                {
+                    "text": "ค. สภาพสิ่งแวดล้อม "
+                },
+                {
+                    "text": "ง. เทคโนโลยี"
+                }
+            ],
+            "explanation": "TS uses a colon (:) to separate the property name from the property type"
+        },
+	{
+            "questionText": "ข้อที่ 63 การเปลี่ยนแปลงแก้ไขเพิ่มเติมยุทธศาสตร์ของชาติ จะกระทำให้เหมาะสมกับสถานการณ์ที่เปลี่ยนไป อย่างไร ( เพิ่มเติม,ปรับแก้ )",
+            "options": [{
+                    "text": "ก. ทุก ๆ 5 ปี"                   
+                },
+                {
+                    "text": "ข. ทุก ๆ ปี"
+                },
+                {
+                    "text": "ค. เปลี่ยนได้ตลอดเวลา"
+                },
+                {
+                    "text": "ง. ทุก ๆ 20 ปี",
+                    "correct": true    
+                }
+            ],
+            "explanation": "TS uses a colon (:) to separate the property name from the property type"
+        },
+	{
+            "questionText": "ข้อที่ 64 อยากทราบว่าบุคคลใด เป็นประธานคณะกรรมการยุทธศาสตร์ชาติ",
+            "options": [{
+                    "text": "ก. ผู้บัญชาการทหารบก"                   
+                },
+                {
+                    "text": "ข. รัฐมนตรีว่าการกระทรวงมหาดไทย"
+                },
+                {
+                    "text": "ค. นายกรัฐมนตรี",
+                    "correct": true    
+                },
+                {
+                    "text": "ง. ประธานสภาผู้แทนราษฎร"
+                }
+            ],
+            "explanation": "TS uses a colon (:) to separate the property name from the property type"
+        },
+	{
+            "questionText": "ข้อที่ 65 การติดตาม การตรวจสอบ และการประเมินผลยุทธศาสตร์ของชาติอยากทราบว่า หลักเกณฑ์ดังกล่าวใครเป็นผู้กำหนด",
+            "options": [{
+                    "text": "ก. นายกรัฐมนตรี"                   
+                },
+                {
+                    "text": "ข. ประธานองคมนตรี"
+                },
+                {
+                    "text": "ค. ประธานรัฐสภา"
+                },
+                {
+                    "text": "ง. คณะรัฐมนตรี",
+                    "correct": true    
+                }
+            ],
+            "explanation": "TS uses a colon (:) to separate the property name from the property type"
+        },
+	{
+            "questionText": "ข้อที่ 66 ยุทธศาสตร์ชาติของประเทศไทยกำหนดระยะเวลากี่ปี",
+            "options": [{
+                    "text": "ก. 10 ปี"                   
+                },
+                {
+                    "text": "ข. 15 ปี"
+                },
+                {
+                    "text": "ค. 20 ปี",
+                    "correct": true    
+                },
+                {
+                    "text": "ง. 25 ปี"
+                }
+            ],
+            "explanation": "TS uses a colon (:) to separate the property name from the property type"
+        },
+	{
+            "questionText": "ข้อที่ 67 การกำหนดยุทธศาสตร์ชาติ ฉบับปัจจุบันนำไปสู่การปฏิบัติเพื่ออะไร",
+            "options": [{
+                    "text": "ก. ความเจริญของชาติ"                   
+                },
+                {
+                    "text": "ข. ทัดเทียมนานาอารยประเทศ"
+                },
+                {
+                    "text": "ค. วิสัยทัศน์ของประเทศไทย (มั่นคง มั่งคั่ง ยั่งยืน)",
+                    "correct": true    
+                },
+                {
+                    "text": "ง. ตามทันสถานการณ์โลก"
+                }
+            ],
+            "explanation": "TS uses a colon (:) to separate the property name from the property type"
+        },
+	{
+            "questionText": "ข้อที่ 68 ความหมายแผนยุทธศาสตร์ชาติ ฉบับปัจจุบัน กระทำเพื่อ",
+            "options": [{
+                    "text": "ก. มั่นคง มั่งคั่ง ยั่งยืน",
+                    "correct": true                       
+                },
+                {
+                    "text": "ข. เพื่อชาติ ศาสน์ กษัตริย์ และประชาชน"
+                },
+                {
+                    "text": "ค. รวดเร็ว  รุนแรง  เด็ดขาด"
+                },
+                {
+                    "text": "ง. โปร่งใส เป็นธรรม"
+                }
+            ],
+            "explanation": "TS uses a colon (:) to separate the property name from the property type"
+        },
+{
+            "questionText": "ข้อที่ 69 ยุทธศาสตร์ชาติด้านการพัฒนาและเสริมสร้างศักยภาพ ทรัพยากรมนุษย์ มุ่งเน้นการพัฒนาและ ยกระดับคน ในเรื่องอะไร",
+            "options": [{
+                    "text": "ก. ดี  เก่ง  มีคุณภาพ",
+                    "correct": true                       
+                },
+                {
+                    "text": "ข. ฉลาด เก่ง"
+                },
+                {
+                    "text": "ค. มีสุขภาพที่ดี"
+                },
+                {
+                    "text": "ง. ประหยัด  อดทน"
+                }
+            ],
+            "explanation": "TS uses a colon (:) to separate the property name from the property type"
+        },
+	{
+            "questionText": "ข้อที่ 70 ยุทธศาสตร์ชาติ ด้านการสร้างความสามารถในการแข่งขันมีวัตถุประสงค์อย่างไร",
+            "options": [{
+                    "text": "ก. เศรษฐกิจเติบโตอย่างมีเสถียรภาพ ยั่งยืน",
+                    "correct": true                       
+                },
+                {
+                    "text": "ข. มีสภาพแวดล้อมที่ดี"
+                },
+                {
+                    "text": "ค. ประชาชนมีสุขภาพที่ดี "
+                },
+                {
+                    "text": "ง. สังคมน่าอยู่"
+                }
+            ],
+            "explanation": "TS uses a colon (:) to separate the property name from the property type"
+        },
+	{
+            "questionText": "ข้อที่ 71 ข้อใดคือความหมายของคำว่า พลเมือง",
+            "options": [{
+                    "text": "ก. ผู้มีจิตสำนึกสาธารณะ"                   
+                },
+                {
+                    "text": "ข. ผู้มีจิตสำนึกรับผิดชอบต่อส่วนรวม"
+                },
+                {
+                    "text": "ค. มีเสรีภาพควบคู่กับหน้าที่"
+                },
+                {
+                    "text": "ง. ถูกทุกข้อ",
+                    "correct": true    
+                }
+            ],
+            "explanation": "TS uses a colon (:) to separate the property name from the property type"
+        },
+	{
+            "questionText": "ข้อที่ 72 วัฒนธรรมทางการเมืองในระบอบประชาธิปไตยมีกี่ประการ",
+            "options": [{
+                    "text": "ก. 5 ประการ"                   
+                },
+                {
+                    "text": "ข. 6 ประการ"
+                },
+                {
+                    "text": "ค. 7 ประการ",
+                    "correct": true    
+                },
+                {
+                    "text": "ง. 8 ประการ"
+                }
+            ],
+            "explanation": "TS uses a colon (:) to separate the property name from the property type"
+        },
+	{
+            "questionText": "ข้อที่ 73 สถาบันใด เป็นสถาบันแรกและใกล้ชิดกับเด็กในการพัฒนา ทั้งด้านร่างกาย จิตใจ อารมณ์   สังคม และพัฒนาบุคลิกภาพภายนอก ภายใน ของทุกคน",
+            "options": [{
+                    "text": "ก. สถาบันการศึกษา"                   
+                },
+                {
+                    "text": "ข. สถาบันครอบครัว",
+                    "correct": true    
+                },
+                {
+                    "text": "ค. สถาบันศาสนา "
+                },
+                {
+                    "text": "ง. รัฐบาล"
+                }
+            ],
+            "explanation": "TS uses a colon (:) to separate the property name from the property type"
+        },
+	{
+            "questionText": "ข้อที่ 74 ความเป็นราชอาณาจักรประชาชนต้องยึดมั่นในสถาบันใด",
+            "options": [{
+                    "text": "ก. ชาติ"                   
+                },
+                {
+                    "text": "ข. ศาสนา"
+                },
+                {
+                    "text": "ค. พระมหากษัตริย์"
+                },
+                {
+                    "text": "ง. ถูกทุกข้อ",
+                    "correct": true    
+                }
+            ],
+            "explanation": "TS uses a colon (:) to separate the property name from the property type"
+        },
+	{
+            "questionText": "ข้อที่ 75 ข้อใดไม่ใช่องค์ประกอบของหลักธรรมาภิบาล",
+            "options": [{
+                    "text": "ก. หลักคุณธรรม"                   
+                },
+                {
+                    "text": "ข. หลักนิติธรรม"
+                },
+                {
+                    "text": "ค. หลักความคุ้มค่า",
+                    "correct": true    
+                },
+                {
+                    "text": "ง. หลักเมตตาธรรม"
+                }
+            ],
+            "explanation": "TS uses a colon (:) to separate the property name from the property type"
+        },
+	{
+            "questionText": "ข้อที่ 76 การพัฒนาตนเองเพื่อให้เป็นพลเมืองในระบอบประชาธิปไตยสามารถพัฒนาด้านใดได้บ้าง",
+            "options": [{
+                    "text": "ก. พัฒนาตนให้มีความสมบูรณ์ทั้งทางร่างกายและจิตใจ"                   
+                },
+                {
+                    "text": "ข. พัฒนาตนด้านสติปัญญา"
+                },
+                {
+                    "text": "ค. พัฒนาตนด้านความรู้ ความสามารถ และทักษะ มีจิตสำนึกประชาธิปไตย"
+                },
+                {
+                    "text": "ง. ถูกทุกข้อ",
+                    "correct": true    
+                }
+            ],
+            "explanation": "TS uses a colon (:) to separate the property name from the property type"
+        },
+	{
+            "questionText": "ข้อที่ 77 ข้อใดถือเป็นผู้แทนระดับชาติ",
+            "options": [{
+                    "text": "ก. สมาชิกสภาผู้แทนราษฎร",
+                    "correct": true                       
+                },
+                {
+                    "text": "ข. นายกองค์การบริหารส่วนจังหวัดนครปฐม"
+                },
+                {
+                    "text": "ค. นายกเทศมนตรีเมืองพัทยา"
+                },
+                {
+                    "text": "ง. ผู้ว่าราชการกรุงเทพมหานคร"
+                }
+            ],
+            "explanation": "TS uses a colon (:) to separate the property name from the property type"
+        },
+	{
+            "questionText": "ข้อที่ 78 ข้อใดไม่ได้ใช้อำนาจทางอ้อมของประชาชน",
+            "options": [{
+                    "text": "ก. การเลือกตั้ง ส.ส."                   
+                },
+                {
+                    "text": "ข. การเลือกตั้ง ส.ว.",
+                    "correct": true    
+                },
+                {
+                    "text": "ค. การเลือกตั้งผู้ว่าราชการกรุงเทพมหานคร"
+                },
+                {
+                    "text": "ง. การเข้าชื่อเสนอกฎหมาย"
+                }
+            ],
+            "explanation": "TS uses a colon (:) to separate the property name from the property type"
+        },
+	{
+            "questionText": "ข้อที่ 79 ผู้ใดถูกจำกัดสิทธิในการใช้สิทธิเลือกตั้ง",
+            "options": [{
+                    "text": "ก. เยาวชน"                   
+                },
+                {
+                    "text": "ข. คนต่างด้าว"
+                },
+                {
+                    "text": "ค. ผู้ที่ต้องโทษจำคุก"
+                },
+                {
+                    "text": "ง. ถูกทุกข้อ",
+                    "correct": true    
+                }
+            ],
+            "explanation": "TS uses a colon (:) to separate the property name from the property type"
+        },
+{
+            "questionText": "ข้อที่ 80 ปัจจุบันองค์กรใดเป็นทำหน้าที่คอยควบคุมและบริหารจัดการเลือกตั้ง",
+            "options": [{
+                    "text": "ก. คณะกรรมการการเลือกตั้ง",
+                    "correct": true                       
+                },
+                {
+                    "text": "ข. คณะกรรมการกฤษฎีกา"
+                },
+                {
+                    "text": "ค. กระทรวงมหาดไทย"
+                },
+                {
+                    "text": "ง. คณะกรรมการสิทธิ"
+                }
+            ],
+            "explanation": "TS uses a colon (:) to separate the property name from the property type"
+        },
+	{
+            "questionText": "ข้อที่ 81 การแบ่งประเภทของยาเสพติดแบ่งออกได้ทั้งหมด 5 ประเภท ยาเสพติด ประเภทที่ 1 คือยาเสพติดอะไร",
+            "options": [{
+                    "text": "ก. ผลิตจากวัตถุดิบที่หาง่าย และราคาถูก"                   
+                },
+                {
+                    "text": "ข. ยาเสพติดร้ายแรงและไม่สามารถนำมาใช้ประโยชน์ทางการแพทย์ได้เช่นเฮโรอีน ยาบ้า",
+                    "correct": true    
+                },
+                {
+                    "text": "ค. มีความรุนแรงต่อจิตประสาทมาก"
+                },
+                {
+                    "text": "ง. ถูกทุกข้อ"
+                }
+            ],
+            "explanation": "TS uses a colon (:) to separate the property name from the property type"
+        },
+	{
+            "questionText": "ข้อที่ 82 ยาเสพติดประเภทที่ 5 คือยาเสพติดประเภทใด",
+            "options": [{
+                    "text": "ก. แอลเอสดี แอมเฟตามีน"                   
+                },
+                {
+                    "text": "ข. โคเคน มอร์ฟีน เมทาโดน"
+                },
+                {
+                    "text": "ค. ผลิตจากการสังเคราะห์ทางเคมี"
+                },
+                {
+                    "text": "ง. แหล่งที่มาจากพืช เช่นกัญชา กระท่อม เห็ดขี้ควาย",
+                    "correct": true    
+                }
+            ],
+            "explanation": "TS uses a colon (:) to separate the property name from the property type"
+        },
+	{
+            "questionText": "ข้อที่ 83 ยาเสพติดที่ออกฤทธิ์ ประเภทกดประสาทได้แก่",
+            "options": [{
+                    "text": "ก. ฝิ่น มอร์ฟีน เฮโรอีน ยานอนหลับ",
+                    "correct": true                 
+                },
+                {
+                    "text": "ข. แอมเฟตามีน ยาบ้า"
+                },
+                {
+                    "text": "ค. ใบกระท่อม กัญชา"
+                },
+                {
+                    "text": "ง. ถูกทุกข้อ"
+                }
+            ],
+            "explanation": "TS uses a colon (:) to separate the property name from the property type"
+        },
+	{
+            "questionText": "ข้อที่ 84 ยาเสพติดที่ออกฤทธิ์ ประเภทกระตุ้นประสาทได้แก่",
+            "options": [{
+                    "text": "ก. แอมเฟตามีน ยาบ้า",
+                    "correct": true                   
+                },
+                {
+                    "text": "ข. ใบกระท่อม กัญชา"
+                },
+                {
+                    "text": "ค. ฝิ่น มอร์ฟีน เฮโรอีน"
+                },
+                {
+                    "text": "ง. ถูกทุกข้อ"
+                }
+            ],
+            "explanation": "TS uses a colon (:) to separate the property name from the property type"
+        },
+	{
+            "questionText": "ข้อที่ 85 ยาเสพติดที่ออกฤทธิ์ ประเภทหลอนประสาทได้แก่",
+            "options": [{
+                    "text": "ก. ฝิ่น เฮโรอีน"                   
+                },
+                {
+                    "text": "ข. ยานอนหลับ"
+                },
+                {
+                    "text": "ค. เหล้า ยาบ้า"
+                },
+                {
+                    "text": "ง. แอลเอสดี เห็ดขี้ควายและสารระเหยต่างๆ",
+                    "correct": true
+                }
+            ],
+            "explanation": "TS uses a colon (:) to separate the property name from the property type"
+        },
+	{
+            "questionText": "ข้อที่ 86 ข้อใดไม่ใช่ลักษณะการติดยาเสพติด “ทางกาย”",
+            "options": [{
+                    "text": "ก. มีความต้องการเสพอยู่ตลอดเวลาไม่สามารถหยุดยาได้และต้องเพิ่มปริมาณ"                   
+                },
+                {
+                    "text": "ข. มีผลให้ร่างกายทรุดโทรมอย่างรุนแรงและเจ็บป่วยได้ง่าย"
+                },
+                {
+                    "text": "ค. ระบบประสาทสั่งการควบคุม รับรู้ รับฟังผิดปกติ"
+                },
+                {
+                    "text": "ง. เสริมสร้างกล้ามเนื้อได้เด่นชัดในกลุ่มนักกีฬา",
+                    "correct": true
+                }
+            ],
+            "explanation": "TS uses a colon (:) to separate the property name from the property type"
+        },
+	{
+            "questionText": "ข้อที่ 87 ข้อใดไม่ใช่ลักษณะการติดยาเสพติด “ทางใจ”",
+            "options": [{
+                    "text": "ก. มีความต้องการเสพอยู่ตลอดเวลาไม่สามารถหยุดยาได้และต้องเพิ่มปริมาณ"                   
+                },
+                {
+                    "text": "ข. พฤติกรรมทางอารมณ์เปลี่ยนแปลง ควบคุมลำบาก"
+                },
+                {
+                    "text": "ค. ระบบประสาทสั่งการควบคุม รับรู้ รับฟังผิดปกติ"
+                },
+                {
+                    "text": "ง. เสริมสร้างพลังใจให้แข็งแข็งต่อสู้กับปัญหารอบด้านได้เสมอ",
+                    "correct": true
+                }
+            ],
+            "explanation": "TS uses a colon (:) to separate the property name from the property type"
+        },
+	{
+            "questionText": "ข้อที่ 88 ยาเสพติดในข้อใดสามารถนำมาใช้ประโยชน์ทางการแพทย์ได้แต่ต้องอยู่ภายใต้การควบคุมของแพทย์",
+            "options": [{
+                    "text": "ก. ไม้ขีดไฟ"                   
+                },
+                {
+                    "text": "ข. แอมเฟตามีน"
+                },
+                {
+                    "text": "ค. โคเคน"
+                },
+                {
+                    "text": "ง. กัญชา มอร์ฟีน",
+                    "correct": true
+                }
+            ],
+            "explanation": "TS uses a colon (:) to separate the property name from the property type"
+        },
+	{
+            "questionText": "ข้อที่ 89 ข้อใดไม่ใช่ยาเสพติดที่ได้มาจากธรรมชาติ",
+            "options": [{
+                    "text": "ก. ฝิ่น"                   
+                },
+                {
+                    "text": "ข. กัญชา"
+                },
+                {
+                    "text": "ค. แอลเอสดี ยาเค",
+                    "correct": true
+                },
+                {
+                    "text": "ง. กระท่อม"
+                }
+            ],
+            "explanation": "TS uses a colon (:) to separate the property name from the property type"
+        },
+	{
+            "questionText": "ข้อที่ 90 ข้อใดเป็นลักษณะที่ไม่ใช่ของผู้ใช้สารเสพติด",
+            "options": [{
+                    "text": "ก. น้ำมูกไหล เหงื่อออกมากผิดปกติ"                   
+                },
+                {
+                    "text": "ข. มักมีรอยแผลเป็นตามแขนและขา(ลักษณะทำร้ายตนเอง)"
+                },
+                {
+                    "text": "ค. หลงลืม ความจำเสื่อม"
+                },
+                {
+                    "text": "ง. มีสมาธิในการทำงานหรือการเรียนที่ดีมากยิ่งขึ้น",
+                    "correct": true
+                }
+            ],
+            "explanation": "TS uses a colon (:) to separate the property name from the property type"
+        },
+{
+            "questionText": "ข้อที่ 91 กิริยาเช่นไร เรียกว่า อภิวาท",
+            "options": [{
+                    "text": "ก.  การไหว้"                   
+                },
+                {
+                    "text": "ข.  การกราบพระ",
+                    "correct": true
+                },
+                {
+                    "text": "ค.  การน้อมศีรษะ"
+                },
+                {
+                    "text": "ง.  การประนมมือ"
+                }
+            ],
+            "explanation": "TS uses a colon (:) to separate the property name from the property type"
+        },
+	{
+            "questionText": "ข้อที่ 92 อะไรไม่จัดอยู่ในงานบุญพิธี",
+            "options": [{
+                    "text": "ก. การถือศีลอุโบสถ",
+                    "correct": true               
+                },
+                {
+                    "text": "ข. งานทำบุญอัฐิ"
+                },
+                {
+                    "text": "ค. งานทำบุญขึ้นบ้านใหม่"
+                },
+                {
+                    "text": "ง. งานมงคลสมรส"
+                }
+            ],
+            "explanation": "TS uses a colon (:) to separate the property name from the property type"
+        },
+	{
+            "questionText": "ข้อที่ 93 การถวายของแก่พระสงฆ์ เรียกอีกอย่างหนึ่งว่าอย่างไร",
+            "options": [{
+                    "text": "ก. การอาราธนา"                   
+                },
+                {
+                    "text": "ข. การประเคน",
+                    "correct": true
+                },
+                {
+                    "text": "ค. การทำอัญชลี"
+                },
+                {
+                    "text": "ง. การกราบ"
+                }
+            ],
+            "explanation": "TS uses a colon (:) to separate the property name from the property type"
+        },
+	{
+            "questionText": "ข้อที่ 94 พระสงฆ์เริ่มสวดบทอนุโมทนาว่า ยถา วาริวะหา......ควรทำอย่างไร ?",
+            "options": [{
+                    "text": "ก. เริ่มกรวดน้ำ",
+                    "correct": true                   
+                },
+                {
+                    "text": "ข. เริ่มอธิฐานจิต"
+                },
+                {
+                    "text": "ค. เริ่มประนมมือรับพร"
+                },
+                {
+                    "text": "ง. เริ่มแผ่เมตตา"
+                }
+            ],
+            "explanation": "TS uses a colon (:) to separate the property name from the property type"
+        },
+	{
+            "questionText": "ข้อที่ 95 จุดประสงค์ของการทำสมาธิ คืออะไร",
+            "options": [{
+                    "text": "ก.  เพื่อสะสมพลังกาย"                   
+                },
+                {
+                    "text": "ข.  เพื่อสะสมพลังจิต"
+                },
+                {
+                    "text": "ค.  เพื่อสะสมพลังใจ"
+                },
+                {
+                    "text": "ง.  ถูกทุกข้อ",
+                    "correct": true
+                }
+            ],
+            "explanation": "TS uses a colon (:) to separate the property name from the property type"
+        },
+	{
+            "questionText": "ข้อที่ 96 อิริยาบทของการทำสมาธิมีอะไรบ้าง",
+            "options": [{
+                    "text": "ก. การเดิน"                   
+                },
+                {
+                    "text": "ข. การนั่ง"
+                },
+                {
+                    "text": "ค. การยืน"
+                },
+                {
+                    "text": "ง. ถูกทุกข้อ",
+                    "correct": true
+                }
+            ],
+            "explanation": "TS uses a colon (:) to separate the property name from the property type"
+        },
+	{
+            "questionText": "ข้อที่ 97 โปรดอธิบายวิธีการทำสูตรสมาธิที่ง่ายที่สุด",
+            "options": [{
+                    "text": "ก. การทำให้คนฉลาด "                   
+                },
+                {
+                    "text": "ข. การทำให้คนมีศิลธรรม"
+                },
+                {
+                    "text": "ค. การทำให้คนเว้นจากการเบียดเบียนกัน",
+                    "correct": true
+                },
+                {
+                    "text": "ง. ถูกทุกข้อ",
+                    "correct": true
+                }
+            ],
+            "explanation": "TS uses a colon (:) to separate the property name from the property type"
+        },
+	{
+            "questionText": "ข้อที่ 98 หลักสูตรสมาธิที่ทำง่ายที่สุดหลักสูตรอะไร",
+            "options": [{
+                    "text": "ก. หลักสูตรจิตตานุภาพ"                   
+                },
+                {
+                    "text": "ข. หลักสูตรวิทิสาสมาธิ"
+                },
+                {
+                    "text": "ค. หลักสูตรปฏิบัติธรรม"
+                },
+                {
+                    "text": "ง. ถูกทุกข้อ",
+                    "correct": true
+                }
+            ],
+            "explanation": "TS uses a colon (:) to separate the property name from the property type"
+        },
+	{
+            "questionText": "ข้อที่ 99 ใครคือผู้เขียนตำราหลักสูตรยุทธสาสมาธิ",
+            "options": [{
+                    "text": "ก. พระอาจารย์หลวงพ่อวิริยังค์ สิรินฺธโร",
+                    "correct": true                   
+                },
+                {
+                    "text": "ข. พระธรรมสิงหบุราจารย์ จรัญ ฐิตธนฺโม"
+                },
+                {
+                    "text": "ค. พระครูวินัยธรมัน ภูริทตฺโต"
+                },
+                {
+                    "text": "ง. ถูกทุกข้อ"
+                }
+            ],
+            "explanation": "TS uses a colon (:) to separate the property name from the property type"
+        },
+	{
+            "questionText": "ข้อที่ 100 การเข้าพรรษา หมายถึงอะไร",
+            "options": [{
+                    "text": "ก. การสมาทานศีล"                   
+                },
+                {
+                    "text": "ข. การอยู่ในที่ใดที่หนึ่ง ๓ เดือน",
+                    "correct": true
+                },
+                {
+                    "text": "ค. การสวดมนต์ "
+                },
+                {
+                    "text": "ง. การนั่งกรรมฐาน"
+                }
+            ],
+            "explanation": "TS uses a colon (:) to separate the property name from the property type"
+        }
+
+    ]
+}
